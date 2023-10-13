@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 from random import randint
 
-api_key = "AntiSniper API"
+api_key = "API KEY HERE"
 lowest_winstreak = "100"
 lowest_other_queries = "100"
 query_types = ["winstreak", "max_possible_winstreak","fkdr", "wlr", "bblr"]
